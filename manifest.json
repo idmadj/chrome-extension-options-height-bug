@@ -1,0 +1,8 @@
+{
+    "name": "Options Dialog Height Issue",
+    "version": "1",
+    "options_ui": {
+        "page": "options.html"
+    },
+    "manifest_version": 2
+}
